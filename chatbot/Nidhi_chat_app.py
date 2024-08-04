@@ -9,7 +9,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 import os
 
-os.environ['COHERE_API_KEY'] = 'G7cUblbv0CIOy9WK57xRNTs7vXYRA0cyEp4OjyPu'
+os.environ['COHERE_API_KEY'] = 'G7cUblbv0CIOy9WK57xRNTs7vXYRA0.......'
 
 st.set_page_config(layout='wide', page_title='The Nidhi Query Bot 😊')
 
